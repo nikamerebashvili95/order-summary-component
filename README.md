@@ -41,4 +41,4 @@ This is a solution to the [Order summary component challenge on Frontend Mentor]
 ## Author
 
 - GitHub - [Nika Merebashvili](https://github.com/nikamerebashvili95)
-
+- Linkedin - [Nika Merebashvili](https://www.linkedin.com/in/nikamerebashvili)
